@@ -1,0 +1,14 @@
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfoInputs.cache
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.AssemblyInfo.cs
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.csproj.CoreCompileInputs.cache
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.exe
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.deps.json
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.runtimeconfig.json
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.dll
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\bin\Debug\net8.0\AnimalHotel.pdb
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.dll
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\refint\AnimalHotel.dll
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.pdb
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\AnimalHotel.genruntimeconfig.cache
+C:\Users\BARYA\Documents\Books\Lessons.Pro\Lessons.Pro\AnimalHotel\obj\Debug\net8.0\ref\AnimalHotel.dll
